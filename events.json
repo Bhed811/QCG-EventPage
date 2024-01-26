@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",  
+      "title": "Open Projects 2023",
+      "date" : "16 July",
+      "imglink": "./images/event-1.png",
+      "info": "Open projects were released for all students of IIT Roorkee, where any student from the institute could participate and complete the given project over a period of 4 weeks.Resources and basic roadmaps were shared, and doubts were cleared over discord. Three projects were released, based on Quantum Adder, Quantum Image Processing and Quantum Simulation using VQE."
+    },
+    {
+      "id": "2",  
+      "title": "Qiskit Fall Fest",
+        "date" : "October 18 - November 5, 2023",
+        "imglink": "./images/event-2.jpeg",
+        "info": "We're thrilled to kickstart the Qiskit Fall Fest with an exciting lineup of events. Here's what we have in store for you: Workshop Series: Delve into the world of quantum computing and the boundless opportunities it offers with our engaging workshops, ranging from the fundamentals of Qubit to search algorithms and quantum cryptography. There will also be a Qiskit hands on workshop.'Dead & Alive' Quantum Computing Hackathon: Following the workshop series, join our 'Dead & Alive' Quantum Computing Hackathon. This hackathon is your chance to immerse yourself in the fascinating realm of quantum computing by working on innovative projects and prompts. We can't wait to see you there in large numbers!"
+    },
+    {
+      "id": "3",  
+      "title": "Workshop on Basics of Quantum Computing",
+      "date" : "October 18, 2023",
+      "imglink": "./images/event-3.png",
+      "info": "We're excited to announce the launch of our enlightening workshop series, kicking off the Qiskit Fall Fest.Are you curious about the captivating world of Quantum Computing, but uncertain about where to begin this exhilarating journey? Join us tomorrow, on October 18th, for our inaugural workshop! In this introductory workshop, we'll demystify the enigmatic realm of Quantum Computing from its very foundations, ensuring accessibility for all."
+    },
+    {
+      "id": "4",  
+      "title": "Workshop on Quantum Algorithm",
+      "date" : "October 21, 2023",
+      "imglink": "./images/event-4.png",
+      "info": "We're thrilled to bring you our next workshop in the series! In this session, we'll provide an introductory review of Quantum Algorithms. We'll cover some fundamental algorithms that demonstrate the time complexity advantages of Quantum Computing. You'll witness the fascinating interplay of quantum mechanical phenomena like superposition and phase kickback, all leading to significant computational prowess!"
+    },
+    {
+      "id": "5",  
+      "title": "Workshop on Grover's Algorithm",
+      "date" : "October 25, 2023",
+      "imglink": "./images/event-5.png",
+      "info": "We're delighted to continue our workshop series, and our next stop is all about Grover's Algorithm. Grover's Algorithm is a quantum gem that highlights quantum advantage by tackling unstructured search problems in an astonishing O(√N) time. If that sounds a bit perplexing, don't worry—join us, and together, we'll unravel the magic behind it!"
+    },
+    {
+      "id": "6",  
+      "title": "Workshop on Quantum Communication and Cryptography",
+      "date" : "November 1, 2023",
+      "imglink": "./images/event-6.png",
+      "info": "We shall be resuming our workshop series with a workshop on Quantum Communication and Cryptography. Let us dive into how we leverage the phenomena of Quantum Mechanics to enhance communication and security! We shall also be covering some interesting topics like quantum teleportation (which sounds like it has come out of a sci-fi movie)!"
+    },
+    {
+      "id": "7",  
+      "title": "Quantum Computing Hackathon",
+      "date" : "November 3, 2023",
+      "imglink": "./images/event-7.png",
+      "info": "Get ready for an extraordinary event as we launch the much-anticipated Dead & Alive Hackathon on November 3, 2023! We're kicking off this quantum journey with an enlightening hands-on workshop on Qiskit. Qiskit, a powerful Python library, opens the doors to the captivating world of quantum circuits and gates, empowering you to explore quantum phenomena right from your computer. Following the workshop, we'll transition to the exciting opening ceremony. Here, we'll introduce you to the hackathon's rules and guidelines, and be on hand to address any questions you may have. It's the perfect opportunity to prepare yourself for the quantum challenges that lie ahead!"
+    },
+    {
+      "id": "8",  
+      "title": "PaAC X QCG Student Talk Series",
+      "date" : "October 8, 2022",
+      "imglink": "./images/event-8.png",
+      "info": "Physics and Astronomy club, together with the Quantum Computing Group brings you a series of student seminars on Many Body Quantum theory and its implications on the domain of Quantum Computation and Information. We kickstart the event on Saturday (8th October) with an introductory session on quantum physics and computing to lay a foundation for the rest of the talks which deal with a multitude of new and appealing areas of research such as many body entanglement, fractional statistics, topological quantum computation and more."
+    },
+    {
+      "id": "9",  
+      "title": "Quantum Computing using Amazon Braket Workshop",
+      "date" : "August 23-25, 2022",
+      "imglink": "./images/event-9.png",
+      "info": "The workshop organised by QCG in association with AWS in the last week of August'22 was a huge success, receiving participation in large numbers from the IITR Junta. The workshop started with notable AWS instructors teaching from the root level and introducing the basics of quantum computing whilst simultaneously teaching its hands-on use cases the very same day. It was a quick jump from being introduced to the quantum computing world while having the opportunity to use Amazon Braket, a fully managed quantum computing service designed to help speed up scientific research and software development for quantum computing. The AWS interface was also simple to grasp and quite beginner friendly. Overall, this workshop proved to be a good learning curve for the attendees."
+    },
+    {
+      "id": "10",  
+      "title": "IITR Quantum Hackathon 2021",
+      "date" : "October 16-19, 2021",
+      "imglink": "./images/event-10.png",
+      "info": "IITR Quantum Hackathon'21, organised by QCG IIT Roorkee and sponsored by IBM Quantum as a part of Qiskit Fall Fest, brought students with different backgrounds together from 16th-19th October 2021 to team up and build quantum computing projects using Qiskit. Brian Ingmanson from IBM Quantum conducted a workshop for the participants, giving an overview of quantum computing and IBM Quantum Labs with Qiskit. QCG covered some advanced concepts in quantum computing through interactive and hands-on workshops. The virtual hackathon began with participants forming teams and pitching ideas on the Qiskit Fall Fest platform. All the teams were required to create GitHub repositories of their projects and present their work to the judges. Read more about the event through this blog."
+    }
+  ]
