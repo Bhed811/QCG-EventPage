@@ -137,9 +137,7 @@ function initSwiper() {
 
 const goToTopButton = document.getElementById("go-to-top-button");
 
-window.onscroll = () => {
-  scrollFunction();
-};
+
 
 function scrollFunction() {
   if (
@@ -161,6 +159,7 @@ goToTopButton.addEventListener("click", () => {
 
 const header = document.querySelector('.main-header');
 window.onscroll = function () {
+    scrollFunction();
     var top = window.scrollY;
     if (top >= 10) {
         header.classList.add('scrolled');
